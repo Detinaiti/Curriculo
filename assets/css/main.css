@@ -71,3 +71,7 @@
     margin-top: var(--medium-size);
     margin-bottom: var(--medium-size);
 }
+
+.skills__right-column{
+    margin-bottom: var(--large-size);
+}
